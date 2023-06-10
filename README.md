@@ -1,3 +1,3 @@
-*Emphasize* _emphasize_
-**Strong** __Strong__
-Logo: ![Alt](/wp.png "Title")
+*Test* _Skills_
+**Just** __On my machine__
+
